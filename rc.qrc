@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/nyan.png</file>
+        <file>data/title.png</file>
+        <file>data/body.mp3</file>
+        <file>data/head.mp3</file>
+        <file>data/bassbody.mp3</file>
+        <file>data/hint.png</file>
+    </qresource>
+</RCC>
